@@ -1,0 +1,2 @@
+1student marks:51.8667
+Output was already redirected to: marks.txt
